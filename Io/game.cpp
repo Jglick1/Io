@@ -135,6 +135,7 @@ void Game::gameLoop() {
 		
 		this->_graphics = graphics;
 		
+		//this is a test message
 		if(!this->_inventory_menu_active) {					//if it is not paused
 			this->update(std::min(ELAPSED_TIME_MS, MAX_FRAME_TIME));
 		}
