@@ -6,10 +6,17 @@
 //  Copyright © 2017 Jonah Glick. All rights reserved.
 //
 
-#include <iostream>
+
+#include "game.hpp"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+	
+	Game game;
+	
+	
+	
+	
     return 0;
+	
 }
